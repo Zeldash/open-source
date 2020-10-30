@@ -1,3 +1,6 @@
+Tuto vidéo https://www.youtube.com/watch?v=WQor5OtPcwU&ab_channel=zeldash
+
+
 # Comment personaliser votre Rich Presence ?
 #### Suivez ces étapes !
 
